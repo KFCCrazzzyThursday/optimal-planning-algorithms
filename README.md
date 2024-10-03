@@ -10,7 +10,9 @@ source ~/.bashrc
 ```
 On AutoDL, running 
 ```bash
-source /etc/network_turbo``` is likely to help. If network issues occur, try again later.
+source /etc/network_turbo
+```
+is likely to help. If network issues occur, try again later.
 If you can't run line 4 in `install_deps.jl` which is `Pkg.add(url="https://github.com/grero/StableHashes.jl")`, 
 try modifying it to  `Pkg.add(Pkg.PackageSpec(url="https://github.com/grero/StableHashes.jl"))`, this worked in my case.
 
