@@ -1,7 +1,7 @@
 # Tips for Running This Repo on AutoDL
 First, make sure you're not using machines with the Xeon(R) Platinum 8352V CPU @ 2.10GHz or any machine with less than 90GB of RAM. I don't know why, but machines with this CPU often crash while running `solve.jl`.
 
-If you want to use your own data, download it from [osf](https://osf.io/rqxja) and replace the model directory in this repo with it.
+If you want to use your own data, download codes from [osf](https://osf.io/rqxja) and replace the `model` directory in it with this repo.
 
 Before running `julia install_deps.jl`, it's recommended to run:
 `echo 'export JULIA_PKG_SERVER="https://pkg.julialang.org"' >> ~/.bashrc
