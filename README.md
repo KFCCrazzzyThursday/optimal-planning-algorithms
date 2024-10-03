@@ -4,10 +4,14 @@ First, make sure you're not using machines with the Xeon(R) Platinum 8352V CPU @
 If you want to use your own data, download codes from [osf](https://osf.io/rqxja) and replace the `model` directory in it with this repo.
 
 Before running `julia install_deps.jl`, it's recommended to run:
-`echo 'export JULIA_PKG_SERVER="https://pkg.julialang.org"' >> ~/.bashrc
+```bash
+echo 'export JULIA_PKG_SERVER="https://pkg.julialang.org"' >> ~/.bashrc
 source ~/.bashrc
-`
+````
 On AutoDL, running `source /etc/network_turbo` is likely to help. If network issues occur, try again later.
+If you can't run line 4 in `install_deps.jl` which is `Pkg.add(url="https://github.com/grero/StableHashes.jl")`, 
+try modifying it to  `Pkg.add(Pkg.PackageSpec(url="https://github.com/grero/StableHashes.jl"))`, this worked in my case.
+
 
 This repo and the README below are forked from [fredcallaway](https://github.com/fredcallaway/optimal-planning-algorithms).
 
