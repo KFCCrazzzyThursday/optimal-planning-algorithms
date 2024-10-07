@@ -14,8 +14,29 @@ source /etc/network_turbo
 ```
 is likely to help. If network issues occur, try again later.
 
-If you can't run line 4 in `install_deps.jl`, which is `Pkg.add(url="https://github.com/grero/StableHashes.jl")`, 
-try modifying it to  `Pkg.add(Pkg.PackageSpec(url="https://github.com/grero/StableHashes.jl"))`. This worked in my case.
+If you can't run line 4 in `install_deps.jl`, which is `Pkg.add(url="https://github.com/grero/StableHashes.jl")`, try modifying it to:
+
+```julia
+Pkg.add(Pkg.PackageSpec(url="https://github.com/grero/StableHashes.jl"))
+```
+
+This worked in my case.
+
+**Alternatively**, if the issue persists, you can manually clone the repository and modify the installation command as follows:
+
+1. Run the following to manually clone the repository:
+
+   ```bash
+   git clone https://github.com/grero/StableHashes.jl.git
+   ```
+
+2. Modify the problematic line in `install_deps.jl` to:
+
+   ```julia
+   Pkg.add(Pkg.PackageSpec(path="path_to_cloned_repo/StableHashes.jl"))
+   ```
+
+Make sure to replace `"path_to_cloned_repo/StableHashes.jl"` with the actual path where you cloned the repository.
 
 
 This repo and the README below are forked from [fredcallaway](https://github.com/fredcallaway/optimal-planning-algorithms).
