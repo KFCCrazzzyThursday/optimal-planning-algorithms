@@ -1,6 +1,6 @@
 exp="$1"
 
-#julia -p auto solve.jl all
+julia -p auto solve.jl all
 # alternatively, solve on a cluster:
 # julia solve.jl setup
 # sbatch solve.sbatch
@@ -15,8 +15,8 @@ julia -p 8 Q_table.jl $exp
 # it will pick up where it left off.
 
 
-#julia -p auto model_comparison.jl $exp
-#julia -p auto simulate.jl $exp
-#julia analysis.jl $exp
+julia -p auto model_comparison.jl $exp
+julia -p auto simulate.jl $exp
+julia analysis.jl $exp
 
 #julia best_first_rate.jl $exp  # only needed for exp1
