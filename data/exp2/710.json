@@ -1,0 +1,491 @@
+{
+    "710": [
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    1,
+                    -1
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": 19
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    1,
+                    -25
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": 17
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    6,
+                    9
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": -41
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    1,
+                    -9
+                ]
+            ],
+            "route": [
+                0,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "graph": "412",
+            "score": 1
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    6,
+                    -1
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": 13
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    1,
+                    -25
+                ]
+            ],
+            "route": [
+                0,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "graph": "412",
+            "score": 7
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    6,
+                    -25
+                ],
+                [
+                    7,
+                    -1
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": -35
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    1,
+                    -1
+                ]
+            ],
+            "route": [
+                0,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "graph": "412",
+            "score": -11
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    6,
+                    9
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": 25
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    16,
+                    -1
+                ]
+            ],
+            "route": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "graph": "412",
+            "score": 25
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    6,
+                    -1
+                ],
+                [
+                    7,
+                    -9
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": -11
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    1,
+                    1
+                ]
+            ],
+            "route": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "graph": "412",
+            "score": 25
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    16,
+                    1
+                ],
+                [
+                    6,
+                    1
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": -25
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    1,
+                    1
+                ]
+            ],
+            "route": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "graph": "412",
+            "score": 3
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    6,
+                    25
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": 49
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    6,
+                    -9
+                ]
+            ],
+            "route": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "graph": "412",
+            "score": -23
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    11,
+                    9
+                ]
+            ],
+            "route": [
+                0,
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "graph": "412",
+            "score": -1
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    1,
+                    1
+                ]
+            ],
+            "route": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "graph": "412",
+            "score": -25
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    6,
+                    9
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": -9
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    1,
+                    -1
+                ]
+            ],
+            "route": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "graph": "412",
+            "score": 41
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    6,
+                    -9
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": -11
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    1,
+                    1
+                ]
+            ],
+            "route": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "graph": "412",
+            "score": -1
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    6,
+                    9
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": 1
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    16,
+                    -25
+                ]
+            ],
+            "route": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "graph": "412",
+            "score": -33
+        },
+        {
+            "mdp": "AwSGazpfJ1p",
+            "reveals": [
+                [
+                    6,
+                    -9
+                ]
+            ],
+            "route": [
+                0,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "graph": "412",
+            "score": 25
+        }
+    ]
+}
